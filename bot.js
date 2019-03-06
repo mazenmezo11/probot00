@@ -732,4 +732,4 @@ client.on("message", msg => {
 });
 
 
-client.login("BOT_");
+العميل . تسجيل  الدخول ( "BOT_TOKEN" ) ؛
